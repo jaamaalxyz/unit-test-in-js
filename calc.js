@@ -15,10 +15,10 @@ const rl = readline.createInterface({
 console.log(`
 Welcome to the Node.js Calculator app! 
 Version: 1.0.0.
-Author: Jamal Uddin
-Published: August 05, 2018
+Author: Md. Jamal Uddin
+Published: August 12, 2018
 
-Usage: Please enter two integer number
+Usage: Please enter any two integer number
 then select operation by your choice.
 `);
 
